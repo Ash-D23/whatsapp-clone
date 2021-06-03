@@ -1,5 +1,5 @@
 Demo link:
-https://whatsapp-clone-3a7fd.web.app/rooms/3kQqvWzNyVQPXWbuJnWb
+https://whatsapp-clone-3a7fd.web.app/
 
 # Getting Started with Create React App
 
